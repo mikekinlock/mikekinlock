@@ -26,4 +26,6 @@ During a normal day I'm mostly working with
 - AWS Service
 
 ## My Contributions
-1. Terraform contribution to add an Opensearch functionality [multi_az_with_standby_enabled](https://github.com/hashicorp/terraform-provider-aws/pull/33031)
+1. Terraform contribution to add the vpc-enpoint resource to elasticsearch [Added VPC-Endpoint to elasticsearch](https://github.com/hashicorp/terraform-provider-aws/pull/33925)
+2. Terraform contribution to add an Opensearch functionality [multi_az_with_standby_enabled](https://github.com/hashicorp/terraform-provider-aws/pull/33031)
+
